@@ -1,9 +1,6 @@
 ### Hi there 👋
-[![KStolte's github stats](https://github-readme-stats.vercel.app/api?username=kstolte&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kstolte&theme=dark&count_private=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on making things blazing and keeping them that way [@lumastic](https://lumastic.com) and [@YellowDogSoftware](https://yellowdogsoftware.com).
-- 🌱 I’m currently learning data warehouseing strategies.
+- 🔭 I’m currently working on making things blazing and keeping them that way [@YellowDogSoftware](https://yellowdogsoftware.com).
 - 💬 Ask me about timezones.
 - 😄 Pronouns: he/him/his
 
